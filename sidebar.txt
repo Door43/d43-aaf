@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[aaf:home|Door43 (aaf)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-aaf|d43-aaf repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-aaf/archive/master.zip|d43-aaf.zip]]
+
+**Recent Changes**
+{{changes>ns = aaf}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/aaf|Ethnologue data]]
+
